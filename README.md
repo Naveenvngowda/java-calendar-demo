@@ -1,4 +1,4 @@
-# Java Calendar Demo
+#Java Calendar Demo
 
 This sample Java Web App implements both the [authorization code grant](https://msdn.microsoft.com/en-us/library/azure/dn645542.aspx) flow to get access to a single user's calendar and the [client credential](https://msdn.microsoft.com/en-us/library/azure/dn645543.aspx) flow to gain access to all calendar's in an Office 365 organization via the [Microsoft Graph](http://graph.microsoft.io).
 
